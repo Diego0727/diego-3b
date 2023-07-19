@@ -1,0 +1,30 @@
+.container{
+    width: 300px;
+     padding: 50px; 
+     border: 2px black solid;
+      margin: 50px;
+      background-color: rgb(43, 196, 196);
+
+     
+}
+input{
+    background-color: transparent;
+    border-width: 0px 0px  1px 0px;
+    padding: 5px;
+
+}
+#password{
+    font-weight: bold;
+
+}
+
+.columns{
+   display: flex;
+    flex-direction: column;
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+}
+
